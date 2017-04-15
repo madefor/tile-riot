@@ -16,6 +16,6 @@ Custom tag &lt;tile> in Riot
 - w: web map service to be called when clicked. optional. default = gsimaps
 
 ### tag rendering
-1. show the actual tile as <img>
+1. show the actual tile as img
 2. the tile number might be shown as annotation
-3. when the <img> is clicked, the location representing the center of the tile is shown in a web map, such as GSI Maps.
+3. when the img is clicked, the location representing the center of the tile is shown in a web map, such as GSI Maps.
