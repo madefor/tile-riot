@@ -27,5 +27,6 @@ Custom tag &lt;tile> in Riot
 <tile t="pale"></tile>
 <tile z='16' x='58241' y='25396'></tile>
 <tile r='https://tile.openstreetmap.jp' t='none' w='openstreetmap.jp' z='16' x='58241' y='25396'></tile>
+<tile t='ort' z='16' x='58241' y='25396' e='jpg'></tile>
 ```
 produces https://madefor.github.io/tile-riot/example.html .
