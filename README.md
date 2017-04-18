@@ -26,4 +26,4 @@ Custom tag &lt;tile> in Riot
 <tile y="2"></tile>
 <tile t="pale"></tile>
 ```
-produces:
+produces https://madefor.github.io/tile-riot/example.html .
