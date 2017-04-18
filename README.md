@@ -19,3 +19,11 @@ Custom tag &lt;tile> in Riot
 1. show the actual tile as img
 2. the tile number might be shown as annotation
 3. when the img is clicked, the location representing the center of the tile is shown in a web map, such as GSI Maps.
+
+### example
+```
+<tile></tile>
+<tile y="2"></tile>
+<tile t="pale"></tile>
+```
+produces:
