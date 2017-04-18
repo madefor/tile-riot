@@ -1,7 +1,7 @@
 <tile>
   <figure>
     <img src='{ r }/{ t }/{ z }/{ x }/{ y }.{ e }'></img>
-    <figcaption><a href='{ r }/{ t }/{ z }/{ x }/{ y }.{ e }'>{ t }/{ z }/{ x }/{ y }</a> ({ e })</figcaption>
+    <figcaption><a target='_blank' href='{ r }/{ t }/{ z }/{ x }/{ y }.{ e }'>{ t }/{ z }/{ x }/{ y }</a> ({ e })</figcaption>
   </figure>
   <script>
     var self = this
