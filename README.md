@@ -13,7 +13,7 @@ Custom tag &lt;tile> in Riot
 - x: x. optional. default = 3
 - y: y. optional. default = 1
 - e: extension. optional. default = png
-- w: web map service to be called when clicked. optional. default = gsimaps
+- w: web map service to be called when clicked. optional. default = http://maps.gsi.go.jp/
 
 ### tag rendering
 1. show the actual tile as img
